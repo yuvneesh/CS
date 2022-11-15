@@ -1,4 +1,5 @@
 # Demonstrating testing functions with tests included within docstring
+# DISCALIMER: Pycharm was used to run the file. Pycharm runs the docstring tests for all functions in a file. 
 
 def is_a_triangle(a: float, b: float, c: float)->bool:
     """
@@ -23,3 +24,4 @@ def is_a_triangle(a: float, b: float, c: float)->bool:
 # Test-2: only case1 fails
 # Test-3: only case2 fails
 # Test-4: only case3 fails
+
